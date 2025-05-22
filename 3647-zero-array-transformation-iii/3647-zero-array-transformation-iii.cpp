@@ -6,18 +6,18 @@ public:
         priority_queue<int, vector<int>, greater<int>> assigned;
         int count = 0;
 
-        for (int time = 0, k = 0; time < nums.size(); time++) {
-            while (!assigned.empty() && assigned.top() < time)
+        for (int i = 0, k = 0; i < nums.size(); i++) {
+            while (!assigned.empty() && assigned.top() < i)
                 assigned.pop();
-            while (k < queries.size() && queries[k][0] <= time) 
+            while (k < queries.size() && queries[k][0] <= i) 
                 available.push(queries[k++][1]);
-            while (assigned.size() < nums[time] && 
-                  !available.empty() && available.top() >= time) {
+            while (assigned.size() < nums[i] && 
+                  !available.empty() && available.top() >= i) {
                 assigned.push(available.top());
                 available.pop();
                 count++;
             }
-            if (assigned.size() < nums[time])
+            if (assigned.size() < nums[i])
                 return -1;
         }
         return queries.size() - count;
