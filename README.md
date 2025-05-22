@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/amansinghas1734/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3321-type-of-triangle](https://github.com/amansinghas1734/leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/amansinghas1734/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/amansinghas1734/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/amansinghas1734/leetcode/tree/master/0135-candy) |
+| [3647-zero-array-transformation-iii](https://github.com/amansinghas1734/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## String
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/amansinghas1734/leetcode/tree/master/0075-sort-colors) |
 | [3321-type-of-triangle](https://github.com/amansinghas1734/leetcode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/amansinghas1734/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/amansinghas1734/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/amansinghas1734/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amansinghas1734/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/amansinghas1734/leetcode/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
