@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amansinghas1734/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amansinghas1734/leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/amansinghas1734/leetcode/tree/master/0135-candy) |
+| [0322-coin-change](https://github.com/amansinghas1734/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/amansinghas1734/leetcode/tree/master/0518-coin-change-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/amansinghas1734/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/amansinghas1734/leetcode/tree/master/3194-find-words-containing-character) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/amansinghas1734/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/amansinghas1734/leetcode/tree/master/0518-coin-change-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/amansinghas1734/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/amansinghas1734/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/amansinghas1734/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/amansinghas1734/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
