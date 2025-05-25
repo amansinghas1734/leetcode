@@ -17,6 +17,6 @@ public:
     int coinChange(vector<int>& coins, int amount) {
         memset(v, -1, sizeof(v));
         int x = solve(coins, amount, 0);
-        return x == INT_MAX-1? -1 : x;
+        return x >= INT_MAX-1? -1 : x;
     }
 };
