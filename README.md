@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amansinghas1734/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amansinghas1734/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/amansinghas1734/leetcode/tree/master/0518-coin-change-ii) |
+| [0945-snakes-and-ladders](https://github.com/amansinghas1734/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghas1734/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/amansinghas1734/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/amansinghas1734/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amansinghas1734/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/amansinghas1734/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/amansinghas1734/leetcode/tree/master/0322-coin-change) |
+| [0945-snakes-and-ladders](https://github.com/amansinghas1734/leetcode/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/amansinghas1734/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/amansinghas1734/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Counting
