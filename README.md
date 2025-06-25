@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/amansinghas1734/leetcode/tree/master/0518-coin-change-ii) |
 | [0945-snakes-and-ladders](https://github.com/amansinghas1734/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/amansinghas1734/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/amansinghas1734/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghas1734/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/amansinghas1734/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/amansinghas1734/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/amansinghas1734/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghas1734/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/amansinghas1734/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Ordered Set
