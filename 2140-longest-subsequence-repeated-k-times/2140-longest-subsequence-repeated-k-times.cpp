@@ -18,7 +18,7 @@ public:
         return j == k * L;
     }
 
-    void backtracking(string& s, string &curr, vector<bool>& canUse, vector<int>& requiredFreq, int k, int maxLen) {
+    void backtracking(string& s, string &curr, vector<int>& requiredFreq, int k, int maxLen) {
         if(curr.length() > maxLen)
             return;
         
@@ -28,7 +28,7 @@ public:
         }
 
         for(int i = 0; i <= 25; i++) {
-            if(canUse[i] == false || requiredFreq[i] == 0)
+            if(requiredFreq[i] == 0)
                 continue;
             
             char ch = i + 'a';
@@ -36,7 +36,7 @@ public:
             requiredFreq[i]--;
 
             
-            backtracking(s, curr, canUse, requiredFreq, k, maxLen);
+            backtracking(s, curr, requiredFreq, k, maxLen);
 
             curr.pop_back();
             requiredFreq[i]++;
@@ -53,11 +53,9 @@ public:
             freq[ch-'a']++;
         }
 
-        vector<bool> canUse(26, false);
         vector<int> requiredFreq(26, 0);
         for(int i = 0; i < 26; ++i) {
             if(freq[i] >= k) {
-                canUse[i] = true;
                 requiredFreq[i] = freq[i]/k;
             }
         }
@@ -65,10 +63,8 @@ public:
         int maxLen = n / k;
 
         string curr;
-        backtracking(s, curr, canUse, requiredFreq, k, maxLen);
+        backtracking(s, curr, requiredFreq, k, maxLen);
 
         return result;
-
-
     }
 };
