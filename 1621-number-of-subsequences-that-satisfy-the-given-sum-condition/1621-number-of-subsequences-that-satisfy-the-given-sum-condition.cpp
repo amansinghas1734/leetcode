@@ -12,7 +12,6 @@ public:
         while(i<=j){
             if(nums[i]+nums[j]<=target){
                 ans=((ans%mod)+pow[j-i])%mod;
-                ans%=mod;
                 i++;
             }
             else(j--);
