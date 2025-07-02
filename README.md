@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amansinghas1734/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/amansinghas1734/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/amansinghas1734/leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/amansinghas1734/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amansinghas1734/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/amansinghas1734/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/amansinghas1734/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/amansinghas1734/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/amansinghas1734/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/amansinghas1734/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/amansinghas1734/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/amansinghas1734/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/amansinghas1734/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/amansinghas1734/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/amansinghas1734/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
