@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/amansinghas1734/leetcode/tree/master/0155-min-stack) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/amansinghas1734/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/amansinghas1734/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/amansinghas1734/leetcode/tree/master/0155-min-stack) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/amansinghas1734/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Divide and Conquer
 |  |
