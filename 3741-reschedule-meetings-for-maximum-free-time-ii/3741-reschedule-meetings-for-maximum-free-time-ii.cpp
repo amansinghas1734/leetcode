@@ -1,34 +1,48 @@
 class Solution {
 public:
     int maxFreeTime(int eventTime, vector<int>& startTime, vector<int>& endTime) {
-        int n = startTime.size();
-        if (n == 0) return eventTime;
+        vector<int> freeArray; //store durations of free gaps
 
-        vector<int> gaps(n + 1, 0);
-        gaps[0] = startTime[0];
-        for (int i = 1; i < n; ++i)
-            gaps[i] = startTime[i] - endTime[i - 1];
-        gaps[n] = eventTime - endTime[n - 1];
+        //ith event
+        //ith start - i-1th ka end = free gap duration
+        freeArray.push_back(startTime[0]);
 
-        vector<int> largestRight(n + 1, 0);
-        for (int i = n - 1; i >= 0; --i)
-            largestRight[i] = max(largestRight[i + 1], gaps[i + 1]);
-
-        int maxFree = 0, largestLeft = 0;
-        for (int i = 1; i <= n; ++i) {
-            int duration = endTime[i - 1] - startTime[i - 1];
-            bool canFitLeft = largestLeft >= duration;
-            bool canFitRight = largestRight[i] >= duration;
-
-            if (canFitLeft || canFitRight) {
-                int merged = gaps[i - 1] + gaps[i] + duration;
-                maxFree = max(maxFree, merged);
-            }
-
-            maxFree = max(maxFree, gaps[i - 1] + gaps[i]);
-            largestLeft = max(largestLeft, gaps[i - 1]);
+        for(int i = 1; i < startTime.size(); i++) {
+            freeArray.push_back(startTime[i] - endTime[i-1]);
         }
 
-        return maxFree;
+        freeArray.push_back(eventTime - endTime[endTime.size()-1]);
+
+        int n = freeArray.size();
+        vector<int> maxRightFree(n, 0);
+        vector<int> maxLeftFree(n, 0);
+        for(int i = n-2; i >= 0; i--) {
+            maxRightFree[i] = max(maxRightFree[i+1], freeArray[i+1]);
+        }
+
+        for(int i = 1; i < n; i++) {
+            maxLeftFree[i] = max(maxLeftFree[i-1], freeArray[i-1]);
+        }
+
+
+        int result = 0;
+        //Iterating on the freeArray
+        for(int i = 1; i < n; i++) {
+            int currEventTime = endTime[i-1] - startTime[i-1]; //duration of event = d
+
+            //Case-1 Moving completely out
+            if(currEventTime <= max(maxLeftFree[i-1], maxRightFree[i])) {
+                result = max(result, freeArray[i-1] + currEventTime + freeArray[i]);
+            }
+
+            //case-2 shift left or right
+            result = max(result, freeArray[i-1] + freeArray[i]);
+        }
+
+        return result;
+
+
     }
 };
+
+
