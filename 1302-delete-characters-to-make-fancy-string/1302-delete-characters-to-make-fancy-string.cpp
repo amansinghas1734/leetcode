@@ -4,11 +4,17 @@ public:
     if(s.length()<3) {
         return s;
     }
-    int j = 2;
-    for (int i = 2; i < s.size(); ++i)
-        if (s[i] != s[j - 1] || s[i] != s[j - 2])
-            s[j++] = s[i];
-    s.resize(j);
-    return s;
+    string ans="";
+    ans+=s[0];
+    for (int i = 1; i < s.size()-1; ++i){
+        if(s[i]==s[i-1]&&s[i]==s[i+1]){
+            continue;
+        }
+        else{
+            ans+=s[i];
+        }
+    }
+    ans+=s[s.length()-1];
+    return ans;
 }
 };
