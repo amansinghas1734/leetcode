@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amansinghas1734/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amansinghas1734/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/amansinghas1734/leetcode/tree/master/0518-coin-change-ii) |
+| [0826-soup-servings](https://github.com/amansinghas1734/leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/amansinghas1734/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amansinghas1734/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansinghas1734/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/amansinghas1734/leetcode/tree/master/0826-soup-servings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/amansinghas1734/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/amansinghas1734/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/amansinghas1734/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -389,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amansinghas1734/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/amansinghas1734/leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
