@@ -17,7 +17,6 @@ public:
         if (dp[n][c] != -1) return dp[n][c];
 
         long long p = power(c, x, n); 
-        if (p > n) return dp[n][c] = solve(n, l, x, c + 1, dp);
 
         long long take = solve(n - p, l, x, c + 1, dp) % MOD;
         long long skip = solve(n, l, x, c + 1, dp) % MOD;
