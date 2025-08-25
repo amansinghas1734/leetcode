@@ -20,15 +20,15 @@ public:
                 i++;
                 ans.push_back(mat[i][j]);
             }
-            if(i==0&&j<n-1){
+            else if(i==0&&j<n-1){
                 j++;
                 ans.push_back(mat[i][j]);
             }
-            if(i==m-1&&j<n-1){
+            else if(i==m-1&&j<n-1){
                 j++;
                 ans.push_back(mat[i][j]);
             }
-            if(j==0&&i<m-1){
+            else if(j==0&&i<m-1){
                 i++;
                 ans.push_back(mat[i][j]);
             }
