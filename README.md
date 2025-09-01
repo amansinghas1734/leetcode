@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amansinghas1734/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amansinghas1734/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/amansinghas1734/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amansinghas1734/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amansinghas1734/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/amansinghas1734/leetcode/tree/master/0053-maximum-subarray) |
 ## Hash Function
 |  |
@@ -459,4 +461,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/amansinghas1734/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amansinghas1734/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/amansinghas1734/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
