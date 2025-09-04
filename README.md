@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/amansinghas1734/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/amansinghas1734/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/amansinghas1734/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/amansinghas1734/leetcode/tree/master/3830-find-closest-person) |
 ## Prefix Sum
 |  |
 | ------- |
