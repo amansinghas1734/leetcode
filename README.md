@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/amansinghas1734/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amansinghas1734/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/amansinghas1734/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/amansinghas1734/leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/amansinghas1734/leetcode/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/amansinghas1734/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/amansinghas1734/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/amansinghas1734/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/amansinghas1734/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/amansinghas1734/leetcode/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/amansinghas1734/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amansinghas1734/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/amansinghas1734/leetcode/tree/master/0518-coin-change-ii) |
