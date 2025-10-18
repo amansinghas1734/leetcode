@@ -13,7 +13,6 @@ public:
                 d++;
                 ans++;
             }
-            cout<<d<<" "<<ans<<endl;
         }
         return ans;
     }
