@@ -1,20 +1,17 @@
 class Solution {
 public:
-    static const int MOD = 1000000007;
-
-    int countPermutations(vector<int>& complexity) {
-        int n = complexity.size();
-        int first = complexity[0];
+    int MOD = 1e9 + 7;
+    
+    int countPermutations(vector<int>& comp) {
+        int n = comp.size();
+        long long ans = 1;
 
         for (int i = 1; i < n; i++) {
-            if (complexity[i] <= first) return 0;
+            if (comp[i] <= comp[0]) return 0;
+            ans *= i;
+            ans %= MOD;
         }
 
-        long long fact = 1;
-        for (int i = 2; i < n; i++) {
-            fact = (fact * i) % MOD;
-        }
-
-        return (int)fact;
+        return ans;
     }
 };
