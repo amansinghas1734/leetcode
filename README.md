@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/amansinghas1734/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amansinghas1734/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/amansinghas1734/leetcode/tree/master/0945-snakes-and-ladders) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/amansinghas1734/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/amansinghas1734/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/amansinghas1734/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amansinghas1734/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/amansinghas1734/leetcode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/amansinghas1734/leetcode/tree/master/0611-valid-triangle-number) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/amansinghas1734/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/amansinghas1734/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/amansinghas1734/leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amansinghas1734/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/amansinghas1734/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0482-license-key-formatting](https://github.com/amansinghas1734/leetcode/tree/master/0482-license-key-formatting) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amansinghas1734/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/amansinghas1734/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/amansinghas1734/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/amansinghas1734/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/amansinghas1734/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
