@@ -6,10 +6,9 @@ public:
             return 0;
         }
         sort(capacity.rbegin(),capacity.rend());
-        int su=0;
         for(int i=0;i<capacity.size();i++){
-            su+=capacity[i];
-            if(su>=s){
+            s-=capacity[i];
+            if(s<=0){
                 return i+1;
             }
         }
