@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/amansinghas1734/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/amansinghas1734/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0482-license-key-formatting](https://github.com/amansinghas1734/leetcode/tree/master/0482-license-key-formatting) |
+| [0756-pyramid-transition-matrix](https://github.com/amansinghas1734/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amansinghas1734/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amansinghas1734/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amansinghas1734/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amansinghas1734/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/amansinghas1734/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/amansinghas1734/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/amansinghas1734/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/amansinghas1734/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/amansinghas1734/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/amansinghas1734/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/amansinghas1734/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/amansinghas1734/leetcode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/amansinghas1734/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/amansinghas1734/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghas1734/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amansinghas1734/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/amansinghas1734/leetcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/amansinghas1734/leetcode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/amansinghas1734/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/amansinghas1734/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amansinghas1734/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
