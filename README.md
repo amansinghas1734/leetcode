@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/amansinghas1734/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/amansinghas1734/leetcode/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/amansinghas1734/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amansinghas1734/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/amansinghas1734/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/amansinghas1734/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3531-count-covered-buildings](https://github.com/amansinghas1734/leetcode/tree/master/3531-count-covered-buildings) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/amansinghas1734/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amansinghas1734/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/amansinghas1734/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amansinghas1734/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3531-count-covered-buildings](https://github.com/amansinghas1734/leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/amansinghas1734/leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/amansinghas1734/leetcode/tree/master/3606-coupon-code-validator) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/amansinghas1734/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/amansinghas1734/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amansinghas1734/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amansinghas1734/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amansinghas1734/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/amansinghas1734/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/amansinghas1734/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/amansinghas1734/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amansinghas1734/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/amansinghas1734/leetcode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amansinghas1734/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amansinghas1734/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/amansinghas1734/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
