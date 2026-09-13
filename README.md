@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/amansinghas1734/leetcode/tree/master/0679-24-game) |
 | [0794-swim-in-rising-water](https://github.com/amansinghas1734/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/amansinghas1734/leetcode/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/amansinghas1734/leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/amansinghas1734/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/amansinghas1734/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/amansinghas1734/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/amansinghas1734/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/amansinghas1734/leetcode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/amansinghas1734/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/amansinghas1734/leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/amansinghas1734/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/amansinghas1734/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amansinghas1734/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
