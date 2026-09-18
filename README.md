@@ -836,4 +836,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amansinghas1734/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/amansinghas1734/leetcode/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/amansinghas1734/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/amansinghas1734/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
