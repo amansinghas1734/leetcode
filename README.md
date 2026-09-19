@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/amansinghas1734/leetcode/tree/master/0482-license-key-formatting) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amansinghas1734/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/amansinghas1734/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0844-backspace-string-compare](https://github.com/amansinghas1734/leetcode/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amansinghas1734/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amansinghas1734/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amansinghas1734/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amansinghas1734/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/amansinghas1734/leetcode/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/amansinghas1734/leetcode/tree/master/0611-valid-triangle-number) |
+| [0844-backspace-string-compare](https://github.com/amansinghas1734/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/amansinghas1734/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/amansinghas1734/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/amansinghas1734/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/amansinghas1734/leetcode/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/amansinghas1734/leetcode/tree/master/0844-backspace-string-compare) |
 | [1628-count-submatrices-with-all-ones](https://github.com/amansinghas1734/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/amansinghas1734/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/amansinghas1734/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/amansinghas1734/leetcode/tree/master/0498-diagonal-traverse) |
+| [0844-backspace-string-compare](https://github.com/amansinghas1734/leetcode/tree/master/0844-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/amansinghas1734/leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/amansinghas1734/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/amansinghas1734/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
