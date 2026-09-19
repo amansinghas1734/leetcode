@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/amansinghas1734/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/amansinghas1734/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/amansinghas1734/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/amansinghas1734/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/amansinghas1734/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/amansinghas1734/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/amansinghas1734/leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amansinghas1734/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghas1734/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/amansinghas1734/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/amansinghas1734/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/amansinghas1734/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amansinghas1734/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/amansinghas1734/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
