@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amansinghas1734/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/amansinghas1734/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amansinghas1734/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1598-crawler-log-folder](https://github.com/amansinghas1734/leetcode/tree/master/1598-crawler-log-folder) |
 | [1612-avoid-flood-in-the-city](https://github.com/amansinghas1734/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amansinghas1734/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/amansinghas1734/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amansinghas1734/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amansinghas1734/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amansinghas1734/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1598-crawler-log-folder](https://github.com/amansinghas1734/leetcode/tree/master/1598-crawler-log-folder) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/amansinghas1734/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/amansinghas1734/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/amansinghas1734/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/amansinghas1734/leetcode/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/amansinghas1734/leetcode/tree/master/0844-backspace-string-compare) |
+| [1598-crawler-log-folder](https://github.com/amansinghas1734/leetcode/tree/master/1598-crawler-log-folder) |
 | [1628-count-submatrices-with-all-ones](https://github.com/amansinghas1734/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/amansinghas1734/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/amansinghas1734/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
