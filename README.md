@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/amansinghas1734/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/amansinghas1734/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/amansinghas1734/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/amansinghas1734/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3531-count-covered-buildings](https://github.com/amansinghas1734/leetcode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/amansinghas1734/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amansinghas1734/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amansinghas1734/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/amansinghas1734/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/amansinghas1734/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/amansinghas1734/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/amansinghas1734/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amansinghas1734/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3618-find-the-original-typed-string-ii](https://github.com/amansinghas1734/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/amansinghas1734/leetcode/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/amansinghas1734/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/amansinghas1734/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3524-find-x-value-of-array-i](https://github.com/amansinghas1734/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amansinghas1734/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amansinghas1734/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/amansinghas1734/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
