@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/amansinghas1734/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/amansinghas1734/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3531-count-covered-buildings](https://github.com/amansinghas1734/leetcode/tree/master/3531-count-covered-buildings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amansinghas1734/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/amansinghas1734/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/amansinghas1734/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amansinghas1734/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/amansinghas1734/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/amansinghas1734/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/amansinghas1734/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amansinghas1734/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amansinghas1734/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amansinghas1734/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/amansinghas1734/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
