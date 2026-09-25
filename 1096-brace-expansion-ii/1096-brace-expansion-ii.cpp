@@ -40,7 +40,7 @@ public:
                 break;
             case '}':
                 while (!op.empty() && op.back()!='{') perf();
-                op.pop_back(); // Remove matching '{'
+                op.pop_back(); 
                 break;
             default:
                 if (prv=='}') op.push_back('*');
