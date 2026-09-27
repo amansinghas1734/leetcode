@@ -9,7 +9,7 @@ public:
             for(int k=0;k<26;k++){
                 ma=max(ma,v[k]);
             }
-            if(j-i+1-ma>k+1){
+            if(j-i-ma>k){
                 v[s[i]-'A']--;
                 i++;
             }
@@ -23,7 +23,7 @@ public:
         for(int k=0;k<26;k++){
             ma=max(ma,v[k]);
         }
-        if(j-i-ma<k+1){
+        if(j-i-ma<=k){
             cout<<i<<'-'<<j<<endl;
             ans=max(ans,j-i);
         }
