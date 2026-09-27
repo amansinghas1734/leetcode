@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/amansinghas1734/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/amansinghas1734/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/amansinghas1734/leetcode/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/amansinghas1734/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/amansinghas1734/leetcode/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/amansinghas1734/leetcode/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/amansinghas1734/leetcode/tree/master/0541-reverse-string-ii) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/amansinghas1734/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/amansinghas1734/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/amansinghas1734/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/amansinghas1734/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/amansinghas1734/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/amansinghas1734/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/amansinghas1734/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/amansinghas1734/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/amansinghas1734/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/amansinghas1734/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/amansinghas1734/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/amansinghas1734/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amansinghas1734/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/amansinghas1734/leetcode/tree/master/0867-new-21-game) |
