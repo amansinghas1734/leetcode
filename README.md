@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amansinghas1734/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/amansinghas1734/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0844-backspace-string-compare](https://github.com/amansinghas1734/leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/amansinghas1734/leetcode/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amansinghas1734/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amansinghas1734/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amansinghas1734/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amansinghas1734/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/amansinghas1734/leetcode/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/amansinghas1734/leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/amansinghas1734/leetcode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/amansinghas1734/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amansinghas1734/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amansinghas1734/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amansinghas1734/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amansinghas1734/leetcode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/amansinghas1734/leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amansinghas1734/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amansinghas1734/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
