@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/amansinghas1734/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/amansinghas1734/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amansinghas1734/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amansinghas1734/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/amansinghas1734/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/amansinghas1734/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/amansinghas1734/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/amansinghas1734/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/amansinghas1734/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/amansinghas1734/leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amansinghas1734/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/amansinghas1734/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/amansinghas1734/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/amansinghas1734/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/amansinghas1734/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/amansinghas1734/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/amansinghas1734/leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/amansinghas1734/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/amansinghas1734/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
