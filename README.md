@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/amansinghas1734/leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/amansinghas1734/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/amansinghas1734/leetcode/tree/master/0679-24-game) |
+| [0731-my-calendar-ii](https://github.com/amansinghas1734/leetcode/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/amansinghas1734/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/amansinghas1734/leetcode/tree/master/0830-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/amansinghas1734/leetcode/tree/master/0835-image-overlap) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amansinghas1734/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0731-my-calendar-ii](https://github.com/amansinghas1734/leetcode/tree/master/0731-my-calendar-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amansinghas1734/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amansinghas1734/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amansinghas1734/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/amansinghas1734/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amansinghas1734/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/amansinghas1734/leetcode/tree/master/0611-valid-triangle-number) |
+| [0731-my-calendar-ii](https://github.com/amansinghas1734/leetcode/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/amansinghas1734/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amansinghas1734/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amansinghas1734/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/amansinghas1734/leetcode/tree/master/0731-my-calendar-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/amansinghas1734/leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/amansinghas1734/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/amansinghas1734/leetcode/tree/master/3678-design-task-manager) |
@@ -847,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/amansinghas1734/leetcode/tree/master/0155-min-stack) |
+| [0731-my-calendar-ii](https://github.com/amansinghas1734/leetcode/tree/master/0731-my-calendar-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/amansinghas1734/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/amansinghas1734/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/amansinghas1734/leetcode/tree/master/3678-design-task-manager) |
@@ -864,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/amansinghas1734/leetcode/tree/master/0731-my-calendar-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amansinghas1734/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amansinghas1734/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/amansinghas1734/leetcode/tree/master/3525-find-x-value-of-array-ii) |
