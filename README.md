@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/amansinghas1734/leetcode/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/amansinghas1734/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amansinghas1734/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amansinghas1734/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/amansinghas1734/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/amansinghas1734/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/amansinghas1734/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/amansinghas1734/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/amansinghas1734/leetcode/tree/master/2689-rearranging-fruits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amansinghas1734/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amansinghas1734/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/amansinghas1734/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/amansinghas1734/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amansinghas1734/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amansinghas1734/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amansinghas1734/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/amansinghas1734/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/amansinghas1734/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/amansinghas1734/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -961,4 +964,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amansinghas1734/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amansinghas1734/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
