@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amansinghas1734/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amansinghas1734/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/amansinghas1734/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/amansinghas1734/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/amansinghas1734/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/amansinghas1734/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amansinghas1734/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amansinghas1734/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/amansinghas1734/leetcode/tree/master/0731-my-calendar-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/amansinghas1734/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amansinghas1734/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amansinghas1734/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amansinghas1734/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/amansinghas1734/leetcode/tree/master/0611-valid-triangle-number) |
 | [0731-my-calendar-ii](https://github.com/amansinghas1734/leetcode/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/amansinghas1734/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1004-max-consecutive-ones-iii](https://github.com/amansinghas1734/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amansinghas1734/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amansinghas1734/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/amansinghas1734/leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/amansinghas1734/leetcode/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/amansinghas1734/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/amansinghas1734/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/amansinghas1734/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amansinghas1734/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amansinghas1734/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amansinghas1734/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
