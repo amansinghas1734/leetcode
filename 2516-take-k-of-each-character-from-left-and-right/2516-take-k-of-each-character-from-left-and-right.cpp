@@ -21,7 +21,8 @@ public:
             if(s[j]=='c') cc++;
                 j--;
             }
-            ans=min(ans,i+n-1-j); i--;
+            ans=min(ans,i+n-1-j); 
+            i--;
         }
         return ans;
     }
