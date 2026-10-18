@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/amansinghas1734/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amansinghas1734/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/amansinghas1734/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/amansinghas1734/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/amansinghas1734/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/amansinghas1734/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/amansinghas1734/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/amansinghas1734/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amansinghas1734/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2479-meeting-rooms-iii](https://github.com/amansinghas1734/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/amansinghas1734/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/amansinghas1734/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/amansinghas1734/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/amansinghas1734/leetcode/tree/master/2689-rearranging-fruits) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amansinghas1734/leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amansinghas1734/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/amansinghas1734/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/amansinghas1734/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/amansinghas1734/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/amansinghas1734/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/amansinghas1734/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
