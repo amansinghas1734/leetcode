@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/amansinghas1734/leetcode/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/amansinghas1734/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2762-continuous-subarrays](https://github.com/amansinghas1734/leetcode/tree/master/2762-continuous-subarrays) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amansinghas1734/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amansinghas1734/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amansinghas1734/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/amansinghas1734/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/amansinghas1734/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/amansinghas1734/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/amansinghas1734/leetcode/tree/master/2689-rearranging-fruits) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amansinghas1734/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2887-sort-vowels-in-a-string](https://github.com/amansinghas1734/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/amansinghas1734/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/amansinghas1734/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/amansinghas1734/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/amansinghas1734/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/amansinghas1734/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amansinghas1734/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amansinghas1734/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3453-separate-squares-i](https://github.com/amansinghas1734/leetcode/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/amansinghas1734/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/amansinghas1734/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/amansinghas1734/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2762-continuous-subarrays](https://github.com/amansinghas1734/leetcode/tree/master/2762-continuous-subarrays) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amansinghas1734/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/amansinghas1734/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/amansinghas1734/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/amansinghas1734/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
