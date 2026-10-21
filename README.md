@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/amansinghas1734/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/amansinghas1734/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/amansinghas1734/leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amansinghas1734/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/amansinghas1734/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/amansinghas1734/leetcode/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/amansinghas1734/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/amansinghas1734/leetcode/tree/master/2689-rearranging-fruits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amansinghas1734/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amansinghas1734/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amansinghas1734/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/amansinghas1734/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/amansinghas1734/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amansinghas1734/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansinghas1734/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/amansinghas1734/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/amansinghas1734/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amansinghas1734/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/amansinghas1734/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amansinghas1734/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3583-count-special-triplets](https://github.com/amansinghas1734/leetcode/tree/master/3583-count-special-triplets) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/amansinghas1734/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/amansinghas1734/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amansinghas1734/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amansinghas1734/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amansinghas1734/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3453-separate-squares-i](https://github.com/amansinghas1734/leetcode/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/amansinghas1734/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/amansinghas1734/leetcode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2762-continuous-subarrays](https://github.com/amansinghas1734/leetcode/tree/master/2762-continuous-subarrays) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/amansinghas1734/leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amansinghas1734/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/amansinghas1734/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/amansinghas1734/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/amansinghas1734/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
