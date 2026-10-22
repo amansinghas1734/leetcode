@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/amansinghas1734/leetcode/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/amansinghas1734/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3886-sum-of-sortable-integers](https://github.com/amansinghas1734/leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/amansinghas1734/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
