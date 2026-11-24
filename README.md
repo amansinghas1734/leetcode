@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/amansinghas1734/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/amansinghas1734/leetcode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/amansinghas1734/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/amansinghas1734/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amansinghas1734/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/amansinghas1734/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/amansinghas1734/leetcode/tree/master/3453-separate-squares-i) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/amansinghas1734/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/amansinghas1734/leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/amansinghas1734/leetcode/tree/master/3336-water-bottles-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/amansinghas1734/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3433-count-mentions-per-user](https://github.com/amansinghas1734/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/amansinghas1734/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/amansinghas1734/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/amansinghas1734/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/amansinghas1734/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amansinghas1734/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/amansinghas1734/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amansinghas1734/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/amansinghas1734/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/amansinghas1734/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -866,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amansinghas1734/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/amansinghas1734/leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/amansinghas1734/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/amansinghas1734/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/amansinghas1734/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/amansinghas1734/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/amansinghas1734/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -997,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/amansinghas1734/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/amansinghas1734/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/amansinghas1734/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Tree
 |  |
