@@ -1068,4 +1068,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/amansinghas1734/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/amansinghas1734/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
