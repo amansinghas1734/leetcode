@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amansinghas1734/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/amansinghas1734/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amansinghas1734/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1696-jump-game-vi](https://github.com/amansinghas1734/leetcode/tree/master/1696-jump-game-vi) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amansinghas1734/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/amansinghas1734/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/amansinghas1734/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amansinghas1734/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amansinghas1734/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1628-count-submatrices-with-all-ones](https://github.com/amansinghas1734/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1696-jump-game-vi](https://github.com/amansinghas1734/leetcode/tree/master/1696-jump-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amansinghas1734/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/amansinghas1734/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/amansinghas1734/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/amansinghas1734/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amansinghas1734/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/amansinghas1734/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1696-jump-game-vi](https://github.com/amansinghas1734/leetcode/tree/master/1696-jump-game-vi) |
 | [1917-maximum-average-pass-ratio](https://github.com/amansinghas1734/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/amansinghas1734/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amansinghas1734/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amansinghas1734/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/amansinghas1734/leetcode/tree/master/1696-jump-game-vi) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/amansinghas1734/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2762-continuous-subarrays](https://github.com/amansinghas1734/leetcode/tree/master/2762-continuous-subarrays) |
 | [3827-implement-router](https://github.com/amansinghas1734/leetcode/tree/master/3827-implement-router) |
@@ -995,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amansinghas1734/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1696-jump-game-vi](https://github.com/amansinghas1734/leetcode/tree/master/1696-jump-game-vi) |
 | [2762-continuous-subarrays](https://github.com/amansinghas1734/leetcode/tree/master/2762-continuous-subarrays) |
 ## Game Theory
 |  |
